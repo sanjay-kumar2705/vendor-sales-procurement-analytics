@@ -1,11 +1,12 @@
-Vendor Sales Procurement Analytics
-📌 Project Overview
+# Vendor Sales Procurement Analytics
+
+### 📌 Project Overview
 
 This project analyzes vendor performance, purchasing, sales, pricing, and profitability using SQL, Python, and Power BI.
 
 The goal is to identify high-performing vendors, analyze purchasing and sales patterns, evaluate pricing, and generate meaningful business insights through data analysis and visualization.
 
--> Technologies Used
+### Technologies Used
 Python
 Pandas
 NumPy
@@ -19,7 +20,7 @@ Git & GitHub
 Jupyter Notebook
 pbix
 
-🔄 Project Workflow
+### 🔄 Project Workflow
 Raw Data
    ↓
 Data Ingestion
@@ -34,9 +35,9 @@ Vendor Performance Analysis
    ↓
 Power BI Dashboard
 
-->SQL Analysis
+### SQL Analysis
 
-SQL was used to:
+#### SQL was used to:
 
 - Combine data from multiple tables
 - Analyze vendor purchasing patterns
@@ -46,7 +47,7 @@ SQL was used to:
 - Compare purchase prices with actual selling prices
 - Calculate vendor-level performance metrics
 
-Common SQL concepts used:
+#### Common SQL concepts used:
 
 - CTEs
 - JOINs
@@ -55,18 +56,18 @@ Common SQL concepts used:
 - CASE statements
 - Subqueries
 
-->Python Data Analysis
+# Python Data Analysis
 
-Python was used for data cleaning, transformation, exploratory data analysis, and visualization.
+### Python was used for data cleaning, transformation, exploratory data analysis, and visualization.
 
-Libraries Used
+#### Libraries Used
 - pandas
 - numpy
 - matplotlib
 - seaborn
 - sqlalchemy
 
-Analysis Performed
+#### Analysis Performed
 - Data cleaning
 - Missing-value analysis
 - Duplicate detection
@@ -80,7 +81,7 @@ Analysis Performed
 - Correlation analysis
 - Data visualization
 
-->Power BI Dashboard
+# Power BI Dashboard
 
 The cleaned and analyzed data was imported into Power BI to create an interactive dashboard.
 
@@ -95,16 +96,16 @@ The cleaned and analyzed data was imported into Power BI to create an interactiv
 - Purchase Contribution
 - Low Performing Vendors
 
-📈 Key Business Questions
+# 📈 Key Business Questions
 - How much the Total Procurement is dependent on the top vendors?
 - Does purchasing in bulk reduce the unit price, what is the optimal purchase volume for cost savings?
 - Which vendor has low inventory turnover, indicating excess stock and slow-moving products?
 - How much capital is locked in unsold inventory per vendor, and which vendors contribute the most to it?
 - What is the 95% confidence intervals for profit margins of top-performing vendors?
 
-💡 Key Insights
+# 💡 Key Insights
 
-The analysis helps identify:
+### The analysis helps identify:
 
 - High-performing vendors
 - High-performing brands
