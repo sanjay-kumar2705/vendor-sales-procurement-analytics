@@ -45,12 +45,12 @@ The goal is to identify high-performing vendors, analyze purchasing and sales pa
 
 #### Common SQL concepts used:
 
-- CTEs
 - JOINs
 - GROUP BY
 - Aggregate functions
-- CASE statements
 - Subqueries
+- CTEs
+
 
 # Python Data Analysis
 
