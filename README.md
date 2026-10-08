@@ -20,16 +20,7 @@ The goal is to identify high-performing vendors, analyze purchasing and sales pa
 
 ### 🔄 Project Workflow
 - Raw Data
--  ⬇
-- Data Ingestion
--    ⬇
-- SQL Analysis
--    ⬇
-- Python Data Cleaning & EDA
--    ⬇
-- Vendor Performance Analysis
--    ⬇
-- Power BI Dashboard
+     ⬇
 
 ### SQL Analysis
 
