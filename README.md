@@ -7,18 +7,16 @@ This project analyzes vendor performance, purchasing, sales, pricing, and profit
 The goal is to identify high-performing vendors, analyze purchasing and sales patterns, evaluate pricing, and generate meaningful business insights through data analysis and visualization.
 
 ### Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-SQL
-SQLite
-SQLAlchemy
-Power BI
-Git & GitHub
-Jupyter Notebook
-pbix
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SQL
+- SQLAlchemy
+- Power BI
+- Git & GitHub
+- Jupyter Notebook
 
 ### 🔄 Project Workflow
 Raw Data
